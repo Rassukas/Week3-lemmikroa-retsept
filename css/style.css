@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows&family=Montserrat+Underline:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body {
+background-color: rgba(255, 196, 0, 0.5);
+}
+
+.heading {
+    text-align: center;
+}
+.iseseisev-heading {
+    margin-bottom: 0;
+    color: brown;
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    font-size: 25px;
+}
+h2, li,td, th,p, footer {
+    color: brown;
+}
